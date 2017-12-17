@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             startActivity(i);
 
         }else {
-            
+
             Log.d("MainPage", "No intent");
             //Toast.makeText(MainActivity.this, "No intent", Toast.LENGTH_LONG);
         }
